@@ -39,5 +39,5 @@ Hello everyone! We are the BizzAPP team, part of the Business Innovative Zeal Ap
 <p align="center">
   <a href="https://www.linkedin.com/company/r17group"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/officialr17group/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/officialr17group"><img alt="Facebook" src="https://img.shields.io/badge/facebook%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/officialr17group"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%234E81B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
