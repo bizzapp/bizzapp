@@ -31,13 +31,13 @@ Hello everyone! We are the BizzAPP team, part of the Business Innovative Zeal Ap
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=LuthfiAjax&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthfiAjax&layout=compact&theme=radical&langs_count=14&bg_color=222&title_color=87CEEB&text_color=fff&icon_color=87CEEB"/><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=bizzapp&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bizzapp&layout=compact&theme=radical&langs_count=14&bg_color=222&title_color=87CEEB&text_color=fff&icon_color=87CEEB"/><br />
 </p>
 
 <h3 align="center">📞📬 Contact Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ach-luthfi-imron-juhari-567408242/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/luthfi.imron/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/se_sambat"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/company/r17group"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/officialr17group/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/officialr17group"><img alt="Facebook" src="https://img.shields.io/badge/facebook%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
