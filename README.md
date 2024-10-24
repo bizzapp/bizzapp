@@ -1,4 +1,4 @@
-# Hello 😎 R17 Citizwn 
+# Hello 😎 R17 Citizen 
 
 ## We are BizzAPP, the IT division that supports business innovation and efficiency through application development and management.
 ### Business Innovative Zeal Application Platform 
