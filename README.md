@@ -34,8 +34,8 @@ Hello everyone! We are the BizzAPP team, part of the Business Innovative Zeal Ap
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bizzapp&theme=transparent" alt="GitHub Streak" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bizzapp&layout=compact&theme=radical&langs_count=14&bg_color=222&title_color=87CEEB&text_color=fff&icon_color=87CEEB"/><br />
 </p>
-
-<h3 align="center">📞📬 Contact Me</h3>
+<br />
+<h3 align="center">📞📬 Contact</h3>
 <p align="center">
   <a href="https://www.linkedin.com/company/r17group"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/officialr17group/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
