@@ -1,13 +1,11 @@
-# Hello 😎 Jax
+# Hello 😎 R17 Citizwn 
 
-## CEO and Founder of Jaxindo Digital Agency
-### as well as a Software Engineer and Instructor
+## We are BizzAPP, the IT division that supports business innovation and efficiency through application development and management.
+### Business Innovative Zeal Application Platform 
 
-Hello everyone! I'm Ach Luthfi Imron Juhari, known as Luthfi. I have a strong background in IT with a Bachelor's degree in Informatics. Since 2022, I have been working professionally as a Fullstack Engineer, contributing to various web and mobile application projects.
+Hello everyone! We are the BizzAPP team, part of the Business Innovative Zeal Application Platform. We focus on creating innovative technology solutions to enhance business efficiency and productivity through advanced application development and effective management.
 
-In addition to my work in software development, I am also passionate about teaching and mentoring aspiring software developers. I believe that education is a key driver of innovation, and I'm committed to helping shape the next generation of tech professionals.
-
-## 👨‍💻 Things I code with
+## 👨‍💻 Things we code with
 
 ### **Languages**
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=java&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-6b1ca2.svg?style=flat&logo=java&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white"/> <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat&logo=go&logoColor=white"/>
@@ -30,53 +28,6 @@ In addition to my work in software development, I am also passionate about teach
 ### **Big Data & Analytics**
 <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-%23ED8B00.svg?style=flat&logo=hadoop&logoColor=white"/> <img alt="Hive" src="https://img.shields.io/badge/Hive-%23FDEE21.svg?style=flat&logo=hive&logoColor=black"/> <img alt="Kafka" src="https://img.shields.io/badge/Kafka-%23000000.svg?style=flat&logo=apache-kafka&logoColor=white"/> <img alt="Kibana" src="https://img.shields.io/badge/Kibana-%23474747.svg?style=flat&logo=kibana&logoColor=white"/>
 
-
-## My Profile Website
-| Project | Link |
-|---------|------|
-| Web Profile   | [jaxid.my.id](https://jaxid.my.id) |
-
-## Work Experience - at
-| Position                                         | Year              | Link                                      |
-|--------------------------------------------------|-------------------|-------------------------------------------|
-| Software Developer - R17 Group                   | 2024/11 - current | [r17group.id](https://r17group.id/)       |
-| CEO - Jaxindo Digital Agency                     | 2023/03 - current | [jaxindo.com](https://jaxindo.com/)       |
-| Software Engineer Instructor - Coding Studio     | 2024/11 - 2024/05 | [codingstudio.id](https://codingstudio.id/) |
-| Database Administrator - Bank Mandiri Persero    | 2023/07 - 2023/11 | [bankmandiri.co.id](https://bankmandiri.co.id/) |
-| Web Developer - R17 Group                        | 2022/07 - 2023/07 | [r17group.id](https://r17group.id/)       |
-
-## Freelance Projects
-| Company Name                     | Type Projects                                  | Link                                                       | Category  |
-|----------------------------------|------------------------------------------------|------------------------------------------------------------|-----------|
-| Rehol Transport                  | Web Profile                                    | [reholtransport.com](https://reholtransport.com/)           | Web       |
-| SSBKU                            | Dashboard Management datas                     | [ssbku.com](https://ssbku.com/)                             | Web       |
-| MTS PUI Banjarsari               | Dashboard Management datas                     | [e-tugasmtspui.my.id](https://www.e-tugasmtspui.my.id)      | Web       |
-| Sabdha Langit                    | Web Profile Dashboard Management               | [sabdhalangit.com](https://sabdhalangit.com/)               | Web       |
-| Bagiyo Denso                     | Web Profile                                    | [bagiyodensoacmobil.com](https://bagiyodensoacmobil.com/)   | Web       |
-| SKB SPNF Kab. Grobogan           | Web Profile and Dashboard Management           | [spnfskbgrobogan.id](https://spnfskbgrobogan.id/)           | Web       |
-| Sabdha Langit                    | Ticket Events Dashboard Management datas       | [events.sabdhalangit.com](https://events.sabdhalangit.com/) | Web       |
-| Bank Mandiri                     | Dashboard Management datas Pipeline            | [Server Demo](https://pipeline.jaxindo.com/)                | Web       |
-| Kemendag - Inaexport             | System trade by from Kemendag                  | [inaexport.id](https://inaexport.id/)                       | Web       |
-| MTS PUI Banjarsari               | Mobile App for Task Delegation and Submission  | [e-tugasmtspui.my.id](https://www.e-tugasmtspui.my.id)      | Mobile    |
-| Black Owl Membership             | Membership App for Black Owl Restaurant        | [Google Play](https://play.google.com/store/apps/details?id=blackowl.id) | Mobile    |
-
-## Work Experience: Web Developer and Mobile Developer at R17 Group
-
-| Project                   | Company               | Link                                                        | Category      |
-|---------------------------|-----------------------|-------------------------------------------------------------|---------------|
-| Audiopost Asia            | Audiopost Asia        | [audiopostasia.com](https://audiopostasia.com/)             | Web           |
-| Company Profile           | Alur Solusi           | [alursolusi.com](https://alursolusi.com/)                   | Web           |
-| Company Profile           | Apollo Solar          | [apollosolar.co.id](https://apollosolar.co.id/)             | Web           |
-| Company Profile           | Digiprimatera         | [digiprimatera.co.id](https://digiprimatera.co.id/)         | Web           |
-| Dimensy                   | Dimensy               | [dimensy.id](https://dimensy.id/)                           | Web           |
-| Company Profile           | Golden Blossom Sumatra | [goldenblossomsumatra.co.id](https://goldenblossomsumatra.co.id/) | Web           |
-| Company Profile           | R17 Group             | [r17group.id](https://r17group.id/)                         | Web           |
-| Company Profile           | R17 Kelola            | [r17.co.id](https://r17.co.id/)                             | Web           |
-| e-Office                  | Digiprimatera         | [eoffice.digiprimatera.co.id](https://eoffice.digiprimatera.co.id/) | Web           |
-| EduFuze                   | R17 Group             | [EduFuze](https://drive.r17.co.id/)                          | Mobile Apps   |
-| Project Management Tools  | Digiprimatera         | [assignment.digiprimatera.co.id](https://assignment.digiprimatera.co.id/) | Web           |
-| eOffice Mobile            | Digiprimatera         | [eOffice](https://drive.r17.co.id/index.php/s/jq8rgxSic2n8CwJ) | Mobile Apps   |
-| Company Profile           | Trimitra Perkasa      | [trimitra-perkasa.com](https://trimitra-perkasa.com/)       | Web           |
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
